@@ -2,3 +2,4 @@ streamlit
 langchain
 dotenv
 chromadb
+duckduckgo-search
